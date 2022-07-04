@@ -1,13 +1,13 @@
 //Conditions
-let name = prompt("What your name?");
+let names = prompt("What your name?");
 
-if (name === "Jordan")
+if (names === "Jordan")
 {
 	document.write("Yes !<br/>");
 	console.log("True !");
-	let number = 6;
+	let number3 = 6;
 
-	if (number === 6)
+	if (number3 === 6)
 	{
 		document.write("Amazing !!");
 	}
